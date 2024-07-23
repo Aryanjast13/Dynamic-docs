@@ -1,5 +1,5 @@
 # Docs App 
-<img src="https://github.com/Aryanjast13/DYNAMPIC-DOCS-/blob/main/src/dynamic-docs.gif" />
+<img src="https://github.com/Aryanjast13/Dynamic-docs/blob/main/src/dynamic-docs.gif" />
 
 ## Detail 
 This app is build by using react with vite  and framer motion.
