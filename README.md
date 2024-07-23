@@ -9,9 +9,10 @@ This app is build by using react with vite  and framer motion.
 ```
  npm install
 ```  
-- Install the all dependencies .
+Install the all dependencies .
 
 ```
  npm run dev
- ``` 
-- For run the app 
+ ```
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
